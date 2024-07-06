@@ -9,7 +9,7 @@ In our Testbed we will use VirtualBox software. VirtualBox will the host the two
 For ease on managing the testbed files, we created a /research folder under /home directory, where all the following command/packages installation to be run inside using the the Ubuntu Desktop Terminal.
 
 • git: Distributed version control system
-\n– sudo apt-get install git
+– sudo apt-get install git
 
 • libiec61850: Open-source library for the IEC61850 protocols
 – git clone https://github.com/mz-automation/libiec61850/
