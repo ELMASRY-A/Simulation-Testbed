@@ -17,7 +17,7 @@ For ease on managing the testbed files, we created a /research folder under /hom
 – make
 
 • OpenPLC Simulink-Interfacelibiec61850: Interface between the OpenPLC Simulink driver and a Simulink model using UDP Send and Receive blocks
-– git clone https://github.com/thiagoralves/OpenPLC Simulink-Interface
+– git clone https://github.com/thiagoralves/OpenPLC_Simulink-Interface
 
 • net-tools: networking utilities for Linux including ifconfig
 – sudo apt install net-tools
