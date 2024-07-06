@@ -59,7 +59,7 @@ This section will cover configuration applicable only to VM#2 where the followin
 
 • OpenPLC Editor on Linux
 • OpenPLC Runtime on Linux
-– git clone https://github.com/thiagoralves/OpenPLC v3.git
+– git clone https://github.com/thiagoralves/OpenPLC_v3.git
 – cd OpenPLC v3
 – ./install.sh linux
 
